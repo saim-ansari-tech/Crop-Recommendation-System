@@ -70,7 +70,7 @@ This project is a **Crop Recommendation System** that suggests the most suitable
 ### ▶️ Run Locally
 ```bash
 streamlit run app.py
-
+```
 ## Author
 Muhammad Saim Ansari
 
